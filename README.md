@@ -16,5 +16,8 @@ a simple pickerView record
 
 GPickView *pickView=[GPickView initPickViewWithDataSource:self.mReturnTypeArr WithSelecBlock:^(NSString *type) {
         //拿到选中数据type，写逻辑
+        
     }];
-    [pickView show];
+    
+    
+[pickView show];
