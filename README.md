@@ -1,4 +1,5 @@
 # a-simple-pickerView-select-tool
+
 a simple pickerView record 
 
 /**
@@ -6,8 +7,9 @@ a simple pickerView record
  *
  *  @param arr_ 要使用的数组
  *  @param type 选中的数据
- *  @return
+ *  @return   用于显示的pickerView
  */
+ 
 + (instancetype)initPickViewWithDataSource:(NSArray *)arr_ WithSelecBlock:(void (^)(NSString *type))mSelecBlock;
 
 - (void)show;
