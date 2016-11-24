@@ -25,6 +25,7 @@ GPickView *pickView=[GPickView initPickViewWithDataSource:self.mReturnTypeArr Wi
 [pickView show];
 
 使用效果：
+
 ![](https://github.com/shaochangying/a-simple-pickerView-select-tool/blob/master/thumb_IMG_1006_1024.jpg)
 
 总结：内容比较简单，想着以后可能会用到就记录一下😄
