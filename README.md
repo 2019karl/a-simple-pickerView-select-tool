@@ -21,3 +21,6 @@ GPickView *pickView=[GPickView initPickViewWithDataSource:self.mReturnTypeArr Wi
     
     
 [pickView show];
+
+
+总结：内容比较简单，想着以后可能会用到就记录一下😄
